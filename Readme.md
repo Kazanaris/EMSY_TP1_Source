@@ -1,3 +1,4 @@
+
 # EMSY - TP1 - 2024 - 2025
 ## Infos Pratique - Bonne pratique git
 
@@ -12,6 +13,11 @@ vi Test_Linus_by_BSH_ANE.txt
 		[i]
   		hello world
     		[esc] :x 
-      
+ls -l /dev/sda
 
- **[aide pour créer un readme](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)**
+
+
+
+source utiliser pour pouvoir realiser certain commande :
+chown https://youtu.be/T5L6SZE_cpE?si=AUSUnvYp-ShRd3Mh
+vi https://www.malekal.com/comment-creer-un-fichier-sur-linux-terminal-ligne-de-commandes/#Comment_creer_un_fichier_avec_un_editeur_de_texte
