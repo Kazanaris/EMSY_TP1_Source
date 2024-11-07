@@ -2,6 +2,10 @@
 # EMSY - TP1 - 2024 - 2025
 ## Infos Pratique - Bonne pratique git
 
+## table des matières
+-[pré-installation]
+-[post-installation]
+
 liste des commandes effectuer 
 cd /
 ls -l
