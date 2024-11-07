@@ -31,7 +31,7 @@ sudo chown hayatache:hayatache EMSY_BSH_ANE
 cd EMSY_BSH_ANE
 git clone https://github.com/Hayatache/EMSY_TP1_Source_BSH_ANE.git
 cd EMSY_TP1_Source_BSH_ANE
-vi EMSY_TP1.c
+nano EMSY_TP1.c
 
 source utiliser pour pouvoir realiser certain commande :
 chown https://youtu.be/T5L6SZE_cpE?si=AUSUnvYp-ShRd3Mh
