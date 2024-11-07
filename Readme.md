@@ -14,9 +14,14 @@ vi Test_Linus_by_BSH_ANE.txt
   		hello world
     		[esc] :x 
 ls -l /dev/sda
+sudo dpkg_reconfigure keyboard_configuration
+//va nous r'ouvrir la page de configuration du clavier
+cat /proc/sys/vm/swappiness //faire attention a mettre l'espace entre le "cat" et le "/" sinon la commande ne sera pas comptabilisé
+nano --version
+//nous n'avons pas besoin de reinstaller nano car  l'application est deja installer dans notre machine
+git --version
 
-
-
+git clone https://github.com/Hayatache/EMSY_TP1_Source_BSH_ANE.git
 
 source utiliser pour pouvoir realiser certain commande :
 chown https://youtu.be/T5L6SZE_cpE?si=AUSUnvYp-ShRd3Mh
