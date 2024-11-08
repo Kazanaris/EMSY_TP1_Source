@@ -5,18 +5,9 @@
 Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 d'EMSY. Chaque commande est accompagnée d'une explication pour aider à comprendre son utilité.
 
 ## Table des matières
-- [Pré-installation](#pré-installation)
-- [Post-installation](#post-installation)
+
 - [Commandes Utilisées](#commandes-utilisées)
 - [Sources Utilisées](#sources-utilisées)
-
-## Pré-installation
-
-Liste des étapes à effectuer avant l’installation des outils nécessaires.
-
-## Post-installation
-
-Actions à réaliser et vérifications après l’installation.
 
 ## Commandes Utilisées
 
