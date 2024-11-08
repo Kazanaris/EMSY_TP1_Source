@@ -28,6 +28,9 @@ Ce projet contient une liste de commandes Linux utilisées dans le cadre du TP1 
 - `sudo chown live:live EMSY_BSH_ANE`  
   Attribue les droits de propriétaire du dossier `EMSY_BSH_ANE` à l’utilisateur `live`.
 
+### Installation de la machine virtuel
+- ` sudo sparky-installer`
+
 ### Création et modification de fichiers
 
 - `cd EMSY_BSH_ANE`  
