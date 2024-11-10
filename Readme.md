@@ -2,7 +2,7 @@
 ## Infos Pratique - Bonne pratique git
 # Prise de note TP1 EMSY :
 
-##Dictionnaire :
+## Dictionnaire :
 GPT        = GUID Partition Table
 MBR        = Master Boot Record
 btrfs      = B-tree file system. C'est un système de fichier.
