@@ -76,7 +76,7 @@ ext4       = Fourth extended file system. C'est le système fichier principaleme
    C'est un remplacemement au MBR.
 
 ## B)
-   Pour le screenshot du GRUB, voir le .PNG en annexe.
+   Pour le screenshot du GRUB, voir le GRUB.PNG en annexe.
 
 ## C) Ligne(s) de commandes servant à changer la langue du clavier :
    `sudo dpkg-reconfigure keyboard-configuration`
