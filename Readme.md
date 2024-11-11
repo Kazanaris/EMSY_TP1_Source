@@ -165,25 +165,19 @@ ext4       = Fourth extended file system. C'est le système fichier principaleme
   Assembler messages:
   Fatal error: can't create EMSY_TP1.o: Permission denied
 
-  Après avoir taper la commande `gcc -o EMSY_TP1.c EMSY_TP1.o` voici ce qui est apparut :
-  gcc: error: EMSY_TP1.o: No such files or directory
-  gcc: fatal error: no input files
-  compilation terminated
+  Après avoir taper la commande `gcc -o EMSY_TP1.c EMSY_TP1.o` rien n'est apparut mais si on utilise la commande `ls -l` on voit qu'un fichier nommé EMSY_TP1.o est apparut
 
-  Après avoir taper la commande `./fichier` voici ce qui est apparut :
-  -bash: ./EMSY_TP1.c: Permission denied
+  Après avoir taper la commande `./EMSY_TP1` voici ce qui est apparut :
+  [sudo] password for kirian:
+  Après avoir mis mon mdp voici de qui apparait :
+  surfaceCarre = 12
+  c'est le résutat de mon calcule
 
  ## Que se passe-t-il sur votre console?
-  Apparament la console me refuse la modification de fichier.
+ Si on utilise la commande `ls -l` on voit qu'un fichier nommé EMSY_TP1 est apparut et il est de couleur vert clair.
 
  ## Quels sont les fichiers qui ont été générés ?
- Aucuns nouveau fichier n'as été généré.
- Je pense, au vu des commandes données, que des fichier ".o" auraient du être générés.
- Je pense que le problème vient des droits de lecture, d'écriture et d'exécution du folder.
- J'ai pourtant utilisé une commande trouvée après quelques recherches sur Internet et j'ai aussi, dans le doute, demander certaines confirmations à des camarades de classe.
- Cela dans le but de confirmer que je ne faisais pas n'importe quoi.
- Les camarades m'ont dit avoir utilisé la même commande que moi au même endroit. J'ai essayé de trouver la raison de mon échec mais j'ai échoué
- je vous avoue donc ne pas avoir d'idée sur la raison de ce problème.
+ Comme dit plus haut, un fichier EMSY_TP1.o et un fichier EMSY_TP1 de couleur vert clair sont apparut.
 
 
   
