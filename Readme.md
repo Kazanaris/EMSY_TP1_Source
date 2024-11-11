@@ -55,7 +55,7 @@ ext4       = Fourth extended file system. C'est le système fichier principaleme
    Apres avoir utiliser la commande ls -l /dev/sda voici ce qui apparait à l'écran :
    brw-rw---- 1 root disk 8, 0 nov 9 13:21 /dev/sda
    
-   Le b est pour 
+   Le b est pour block special file.
    Le rw veux dire read write, ce sont les droits de lecture et d'écriture.
    Le 1 c'est le nombre de répertoire.
    Le root nous montre la racine de ce folder.
